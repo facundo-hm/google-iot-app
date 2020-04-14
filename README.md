@@ -1,1 +1,1 @@
-# google-iot-app
+# IoT app - GCP
